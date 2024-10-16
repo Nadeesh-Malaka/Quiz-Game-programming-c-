@@ -2,6 +2,8 @@
 #include<stdlib.h>
 
 
+
+
 //FUNCTION DECLARATION
 
 void main_menu();
@@ -39,7 +41,7 @@ return 0;
 
 void main_menu(){
    printf("\n\t\t****************************************\n");
-   printf("\n\t\t        WELCOME TO QUIZ GAME   \n") ;
+   printf("\n\t\t        WELCOME TO QUIZ GAME 2   \n") ;
    printf("\n\t\t****************************************");
    printf("\n\t\t________________________________________\n");
    printf("\n\t\t > Press 1 to start the game");
