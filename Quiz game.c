@@ -356,7 +356,7 @@ void help(){
 
      printf("\n\n\t\t ************************* QUIZ GAME HELP *************************\n");
      printf("\n\t\t > There are 2 rounds in this Quiz Game");
-     printf("\n\t\t > Player must score 3 or more than 3 to qualified for the second round");
+     printf("\n\t\t > A player must score at least 3 to qualify for the second round ");
      printf("\n\t\t > You will be given 4 options and you have to press 1, 2 ,3 or 4 for the");
      printf("\n\t\t   right option");
      printf("\n\t\t > Each correct Questions awarded $100 cash price");
